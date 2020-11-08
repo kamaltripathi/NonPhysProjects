@@ -5,8 +5,8 @@
 
 #This is a dictionary to save name and email.
 friends = {
-    'Kamal Tripathi':  'kamaltri123@gmail.com',
-    'kamalt':          'kamalt@imsc.res.in'
+    'Person 1':  'person1@gmail.com',
+    'Person 2':          'person2@domain.com'
 } 
 
 
